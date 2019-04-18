@@ -2,4 +2,6 @@
 ### This is a machine learning learning step by step guides for new learners.
 ### All the slides are contributed by Prof. John Paisley from Department of Electrical Engineering & Data Science Institute, Columbia University
 
+I will post hw sol when I subumitted after due.
+
 # Keep update!!!💪💪💪
